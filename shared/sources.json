@@ -1,4 +1,12 @@
 {
+  "36kr": {
+    "name": "36氪",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://www.36kr.com",
+    "color": "green",
+    "interval": 600000
+  },
   "v2ex": {
     "redirect": "v2ex-share",
     "name": "V2EX",
